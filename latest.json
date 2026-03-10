@@ -1,0 +1,8 @@
+{
+  "version": "0.2.0-beta.14",
+  "published_at": "2026-03-10T00:52:52Z",
+  "windows_asset_url": "https://jetnet.sfo3.cdn.digitaloceanspaces.com/stable/JetNetACARS-windows.zip",
+  "windows_asset_name": "JetNetACARS-windows.zip",
+  "sha256": "abf2008b330181ee5de39295a433d16964afbe4de26af8a8b57fc960d55a28c2",
+  "release_notes_url": "https://github.com/vAAGroup/JetNet-ACARS/releases/tag/v0.2.0-beta.14"
+}
