@@ -1,16 +1,16 @@
 {
-  "version": "0.2.0-beta.18",
-  "published_at": "2026-03-12T22:33:38Z",
+  "version": "0.2.0-beta.19",
+  "published_at": "2026-03-12T22:48:46Z",
   "windows_asset_url": "https://jetnet.sfo3.cdn.digitaloceanspaces.com/stable/JetNetACARS-windows.zip",
   "asset_url": "https://jetnet.sfo3.cdn.digitaloceanspaces.com/stable/JetNetACARS-windows.zip",
   "windows_asset_url_alt": "https://jetnet.sfo3.digitaloceanspaces.com/stable/JetNetACARS-windows.zip",
   "windows_asset_name": "JetNetACARS-windows.zip",
-  "sha256": "e103462a819cf87654081346c846aa207d49d4e60bf9fc0e3f7ac02ca603d548",
+  "sha256": "d4ccf1bfec1da74e50a139dcbfe25499fd1675c67f67dc88bfb54e8b2859d263",
   "mac_asset_url": "https://jetnet.sfo3.cdn.digitaloceanspaces.com/stable/JetNetACARS-macos.zip",
   "mac_asset_name": "JetNetACARS-macos.zip",
-  "mac_sha256": "3d0a6d1dd7de90a1577ee141d5130ca2b1f588a863bc489eb2d012334d0a297c",
+  "mac_sha256": "8ffab7d410c174e591391ee368a0ac1991666b3fe97d45e3f794271bba0c6e62",
   "linux_asset_url": "https://jetnet.sfo3.cdn.digitaloceanspaces.com/stable/JetNetACARS-linux.zip",
   "linux_asset_name": "JetNetACARS-linux.zip",
-  "linux_sha256": "00eef01895cf493936eba720fc5060838e379563fbe3c6f5a88cdc673d0f076d",
-  "release_notes_url": "https://github.com/vAAGroup/JetNet-ACARS/releases/tag/v0.2.0-beta.18"
+  "linux_sha256": "f5152f38101d25c95d9fc05a6c3c82505168bc58a224e68df24c4e48292ec6b5",
+  "release_notes_url": "https://github.com/vAAGroup/JetNet-ACARS/releases/tag/v0.2.0-beta.19"
 }
